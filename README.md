@@ -36,5 +36,5 @@ I am a software developer with experience in building web and mobile application
 ![Rahman Faisal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanfaisal0414&layout=compact&theme=dark)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmanfaisal)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahmanfaisal@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmanfaisal0414)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramyoen14@gmail.com)  
