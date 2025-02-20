@@ -32,8 +32,8 @@ I am a software developer with experience in building web and mobile application
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ## 📊 GitHub Stats  
-![Rahman Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmanfaisal0414l&show_icons=true&theme=dark)  
-![Rahman Faisal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanfaisal0414l&layout=compact&theme=dark)  
+![Rahman Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahmanfaisal0414&show_icons=true&theme=dark)  
+![Rahman Faisal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanfaisal0414&layout=compact&theme=dark)  
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahmanfaisal)  
